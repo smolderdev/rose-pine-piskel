@@ -10,8 +10,8 @@
 1. Open Piskel
 2. Create a new palette
 3. Select `Import from file` at the top
-4. Import a palette from below
-5. Create to your heart's desire.
+4. Import a rose pine palette file
+5. Create to your heart's desire
 
 ## Gallery
 
