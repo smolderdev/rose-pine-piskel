@@ -15,7 +15,7 @@
 
 ## Gallery
 
-
+![Palettes](Rose-Pine-Palettes.png)
 
 ## Thanks to
 
